@@ -1,0 +1,54 @@
+#d1{
+    background-color: blueviolet;
+    color: aqua;
+    font-size:15px;
+  
+}
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("images/download.jpg");
+    width: 100%;
+
+}
+#d2
+{
+ border-radius: 100%;   
+  margin-left: 30;
+    margin-top: 10;
+}
+#d3
+{
+   font-size: 30;
+  margin-left: 450;
+    margin-top: -300;
+    color: whitesmoke;
+}
+#d4
+{
+    width:430;
+font-size: 20;
+  margin-left: 10;
+    margin-top: 50;
+    color: black;
+}
+#d5
+{
+    width:430;
+font-size: 20;
+  margin-left: 450;
+    margin-top: -513;
+    color: black;
+}
+#d6
+{
+     width:430;
+   margin-left: 880;
+    margin-top: -270; 
+}
+#d7
+{
+     width:400;
+   margin-left: 80;
+    margin-top: 280; 
+}
