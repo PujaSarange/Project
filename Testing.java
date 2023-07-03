@@ -54,7 +54,7 @@ public class Testing {
   @Test(priority=4)
   public void sign_in_Email() {
    
-	  driver.findElement(By.xpath("/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div[1]/form/div/div/div/div[1]/input[1]")).sendKeys("poojayeole96@gmail.com");
+	  driver.findElement(By.xpath("/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div[1]/form/div/div/div/div[1]/input[1]")).sendKeys("-----");
 	  driver.findElement(By.xpath("/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div[1]/form/div/div/div/div[2]/span/span/input")).click();
   }
   @Test(priority=5)
